@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p{
+   text-align: justify;
+   font-family: Georgia;
+}
+img{
+    border-radius: 10px;
+
+}
+.img3{
+   border-radius: 40px;
+
+}
+.video{
+    text-align: center;
+}
+footer{
+    background-color: rgb(8, 161, 110);
+}
+.pie{
+    color: white;
+}
+
